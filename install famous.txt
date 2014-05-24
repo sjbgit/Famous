@@ -1,0 +1,13 @@
+http://www.youtube.com/watch?v=tbqwX0v59s0
+
+http://decodize.com/css/installing-yeoman-front-end-development-stack-windows/
+npm install generator-famous
+yo famous
+
+for angular
+https://github.com/Famous/famous-angular
+
+grunt server to run server
+
+grunt to process files for push out
+
