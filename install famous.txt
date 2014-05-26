@@ -6,6 +6,7 @@ yo famous
 
 for angular
 https://github.com/Famous/famous-angular
+http://famo.us/integrations/angular/
 
 grunt server to run server
 
